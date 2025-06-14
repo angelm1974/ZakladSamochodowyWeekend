@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uY48Y1cge+A=",
+  "success": true,
+  "projectFilePath": "D:\\Programy\\zaklad_s\\ZakladSamochodowyWeekend\\ZakladSamochodowy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mariusz\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Mariusz\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}

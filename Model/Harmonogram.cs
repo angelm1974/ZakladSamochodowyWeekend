@@ -1,4 +1,5 @@
-namespace ConsoleApp2.Model{
+namespace ConsoleApp2.Model
+{
     public struct Harmonogram
     {
         public Guid Id { get; set; }
@@ -7,4 +8,5 @@ namespace ConsoleApp2.Model{
         public DateTime DataStart { get; set; }
         public DateTime DataStop { get; set; }
     }
-    }
+
+}
